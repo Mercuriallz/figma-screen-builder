@@ -1,0 +1,108 @@
+{
+  "name": "Workonix Web Builder",
+  "id": "workonix-web-builder-dev",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  },
+  "menu": [
+    {
+      "name": "01. Auth dan Super Admin — 36 layar",
+      "command": "chunk-0"
+    },
+    {
+      "name": "02. Dasbor dan Persetujuan — 30 layar",
+      "command": "chunk-1"
+    },
+    {
+      "name": "03. Karyawan dan Hak Akses (1/4) — 13 layar",
+      "command": "chunk-2"
+    },
+    {
+      "name": "04. Karyawan dan Hak Akses (2/4) — 13 layar",
+      "command": "chunk-3"
+    },
+    {
+      "name": "05. Karyawan dan Hak Akses (3/4) — 17 layar",
+      "command": "chunk-4"
+    },
+    {
+      "name": "06. Karyawan dan Hak Akses (4/4) — 11 layar",
+      "command": "chunk-5"
+    },
+    {
+      "name": "07. Organisasi (1/2) — 22 layar",
+      "command": "chunk-6"
+    },
+    {
+      "name": "08. Organisasi (2/2) — 14 layar",
+      "command": "chunk-7"
+    },
+    {
+      "name": "09. Kehadiran dan Jadwal (1/3) — 19 layar",
+      "command": "chunk-8"
+    },
+    {
+      "name": "10. Kehadiran dan Jadwal (2/3) — 11 layar",
+      "command": "chunk-9"
+    },
+    {
+      "name": "11. Kehadiran dan Jadwal (3/3) — 12 layar",
+      "command": "chunk-10"
+    },
+    {
+      "name": "12. Cuti dan Lembur (1/3) — 23 layar",
+      "command": "chunk-11"
+    },
+    {
+      "name": "13. Cuti dan Lembur (2/3) — 28 layar",
+      "command": "chunk-12"
+    },
+    {
+      "name": "14. Cuti dan Lembur (3/3) — 26 layar",
+      "command": "chunk-13"
+    },
+    {
+      "name": "15. Payroll (1/5) — 21 layar",
+      "command": "chunk-14"
+    },
+    {
+      "name": "16. Payroll (2/5) — 19 layar",
+      "command": "chunk-15"
+    },
+    {
+      "name": "17. Payroll (3/5) — 19 layar",
+      "command": "chunk-16"
+    },
+    {
+      "name": "18. Payroll (4/5) — 18 layar",
+      "command": "chunk-17"
+    },
+    {
+      "name": "19. Payroll (5/5) — 12 layar",
+      "command": "chunk-18"
+    },
+    {
+      "name": "20. Daily Timesheet (1/2) — 18 layar",
+      "command": "chunk-19"
+    },
+    {
+      "name": "21. Daily Timesheet (2/2) — 13 layar",
+      "command": "chunk-20"
+    },
+    {
+      "separator": true
+    },
+    {
+      "name": "Semua sekaligus (SANGAT berat — jangan)",
+      "command": "all"
+    }
+  ]
+}

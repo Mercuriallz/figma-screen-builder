@@ -1,0 +1,13 @@
+{
+  "name": "figma-screen-builder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kerangka plugin Figma lokal yang menggambar layar aplikasi (mobile/web) dari kode, terang + gelap, tanpa kuota MCP.",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node build.js",
+    "test": "node test.js",
+    "plan": "node plan.js",
+    "scaffold": "node scaffold.js"
+  }
+}
